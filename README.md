@@ -130,7 +130,13 @@ const malith = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malith-madusankha-mzone/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalithMadusankha)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malithsony@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0770699151)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mzonetv9531)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15097294/malith-madusankha)
+
+### 📞 Contact Numbers
+
+[![Mobile](https://img.shields.io/badge/📱_0713180097-25D366?style=for-the-badge&logoColor=white)](tel:0713180097)
+[![WhatsApp](https://img.shields.io/badge/📱_0770699151-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0770699151)
 
 </div>
 
@@ -146,3 +152,7 @@ const malith = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+<!--
+Fun Fact: This README is powered by coffee ☕ and code 💻
+-->
