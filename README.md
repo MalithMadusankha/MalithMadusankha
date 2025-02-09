@@ -1,61 +1,100 @@
-# Hello World! 👋 I'm Malith Madusankha
+# Hi there! 👋 I'm Malith Madusankha
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Solutions+Engineer;Mobile+App+Developer" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 A passionate Software Engineer from Sri Lanka, transforming ideas into elegant solutions  
-💡 Believe in the power of clean code and continuous learning  
-🌱 Currently exploring the depths of Cloud Architecture and DevOps  
-⚡ Fun fact: "Code is like humor. When you have to explain it, it's bad!"
+🎓 Final Year Software Engineering Student at SLIIT  
+💡 Experienced in Full Stack Development, AI/ML, and Mobile App Development  
+🌱 Currently exploring advanced Cloud Architecture and DevOps practices  
+⚡ Passionate about creating innovative solutions that make a difference  
+🤝 Active member of Mozilla Campus Club SLIIT and Leo Campus Club SLIIT
 
-## 🛠️ Tech Arsenal
+## 🔧 Technologies & Tools
 
-### Languages & Frameworks:
+### Languages & Frameworks
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+```javascript
+const skills = {
+  languages: ["JavaScript", "Python"],
+  frontend: ["React", "React Native", "HTML", "CSS"],
+  backend: ["Node.js", "Express.js", "FastAPI", "GraphQL", "Apollo Server"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+  cloud: ["AWS", "GCP", "Docker"],
+  ai_ml: [
+    "Machine Learning",
+    "Deep Learning",
+    "YOLOv11",
+    "OpenCV",
+    "MediaPipe",
+  ],
+  tools: ["Git", "GitHub", "Jira", "Asana", "Figma"],
+};
+```
 
-### Tools & Technologies:
+## 🚀 Featured Projects
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### 🧩 Autisio App
 
-## 📊 GitHub Stats
+- Mobile app for children with Autism Spectrum Disorders
+- Features games for attention assessment using face detection and voice recognition
+- **Tech Stack:** React Native, FastAPI, Python, MongoDB, Firebase, OpenCV, MediaPipe
+- **ML Models:** Decision Tree, Logistic Regression, K-NN
+
+### 🎯 ADHD Tracking App
+
+- Daily activity tracker for ADHD diagnosis and management
+- Provides personalized recommendations based on activity patterns
+- **Tech Stack:** React Native, FastAPI, Python, MongoDB, Firebase
+- **ML Models:** Decision Tree, Logistic Regression, K-NN
+
+### 🌺 OrchiZen
+
+- AI-powered fertilizer recommendation system for orchids
+- Features advanced image processing for plant feature detection
+- **Tech Stack:** React Native, FastAPI, Python, YOLOv11, MongoDB, Firebase
+- **DevOps:** Docker, CI/CD pipeline
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalithMadusankha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalithMadusankha&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Current Focus
+## 🏆 Achievements
 
-- 🔭 Working on: Building scalable microservices
-- 📚 Learning: Cloud Architecture & DevOps practices
-- 👯 Looking to collaborate on: Open source projects
-- 🤝 Open to: Exciting opportunities and challenges
+- Participant in Algothon Contest
+- Member of Mozilla Campus Club SLIIT
+- Member of Leo Campus Club SLIIT
+- Former School Prefect Board Member at Kadawatha Central College
+- Certified in Art Competition
 
-## 🤝 Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malith_Madusankha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malith-madusankha-mzone/)
+[![GitHub](https://img.shields.io/badge/GitHub-MalithMadusankha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalithMadusankha)
+[![Email](https://img.shields.io/badge/Email-malithsony@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malithsony@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0770699151-00C300?style=for-the-badge&logo=phone&logoColor=white)](tel:0770699151)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MalithMadusankha&color=blue" alt="Profile Views" />
 </div>
+
+```javascript
+// Life Philosophy
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
